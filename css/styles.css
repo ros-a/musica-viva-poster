@@ -52,7 +52,7 @@ svg {
     align-content: space-between;
 }
 
-p {
+p, h2 {
     font-size: 13px;
     line-height: 16px;
 }
